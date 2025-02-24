@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../AbdulBariJava.iml" filepath="$PROJECT_DIR$/../AbdulBariJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ConditionalStatements/ConditionalStatements.iml" filepath="$PROJECT_DIR$/../ConditionalStatements/ConditionalStatements.iml" />
       <module fileurl="file://$PROJECT_DIR$/../RectangularPrism/RectangularPrism.iml" filepath="$PROJECT_DIR$/../RectangularPrism/RectangularPrism.iml" />
       <module fileurl="file://$PROJECT_DIR$/../SolvingQuadraticEquations/SolvingQuadraticEquations.iml" filepath="$PROJECT_DIR$/../SolvingQuadraticEquations/SolvingQuadraticEquations.iml" />
       <module fileurl="file://$PROJECT_DIR$/../StringClass/StringClass.iml" filepath="$PROJECT_DIR$/../StringClass/StringClass.iml" />
